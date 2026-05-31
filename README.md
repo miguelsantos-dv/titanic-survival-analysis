@@ -1,4 +1,4 @@
-# Titanic Survival Analysis 🚢
+# Titanic Survival Analysis 
 
 Statistical analysis of the Titanic disaster using Python, exploring which sociodemographic factors determined passenger survival.
 
