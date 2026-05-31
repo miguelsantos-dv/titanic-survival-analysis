@@ -4,7 +4,7 @@ Statistical analysis of the Titanic disaster using Python, exploring which socio
 
 ## Overview
 
-This project applies **Univariate and Bivariate Descriptive Statistics** to the Titanic dataset to answer a key question: was survival random, or was it shaped by gender, social class, and family structure?
+This project applies **Univariate and Bivariate Descriptive Statistics** to the Titanic dataset to answer a key question: "was survival random, or was it shaped by gender, social class, and family structure?"
 
 The analysis delivers 5 data-driven insights with visualizations and clear interpretations.
 
@@ -12,10 +12,10 @@ The analysis delivers 5 data-driven insights with visualizations and clear inter
 
 | Factor | Insight |
 |--------|---------|
-| **Gender** | 74.2% of women survived vs. only 18.9% of men — maritime evacuation protocol ("women and children first") confirmed statistically |
-| **Social Class** | 1st class passengers had the highest survival rate; 3rd class the lowest — wealth determined access to lifeboats |
+| **Gender** | 74.2% of women survived vs. only 18.9% of men -- maritime evacuation protocol ("women and children first") confirmed statistically |
+| **Social Class** | 1st class passengers had the highest survival rate; 3rd class the lowest, wealth determined access to lifeboats |
 | **Ticket Fare** | Boxplot reveals extreme wealth variability within 1st class, in contrast to the uniformly low fares of 3rd class |
-| **Family Size** | Median of 0 siblings/spouses on board — most passengers traveled alone (immigrants and workers) |
+| **Family Size** | Median of 0 siblings/spouses on board, most passengers traveled alone (immigrants and workers) |
 | **Embarkation Port** | Cherbourg (France) passengers had notably higher survival rates, reflecting the high concentration of 1st class boardings there |
 
 ## Visualizations
@@ -56,4 +56,4 @@ Survival on the Titanic was not random. Gender and social class created a clear 
 
 ---
 
-*Academic project — Statistics and Probability · PUC-Campinas · 2026*
+*Academic project — Statistics and Inferences · PUC-Campinas · 2026*
